@@ -1,0 +1,6 @@
+@IPTMidtermexam_HostAddress = http://localhost:5101
+
+GET {{IPTMidtermexam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
